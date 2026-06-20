@@ -1,13 +1,11 @@
 # Hi there! I'm Naima 👋 (leadylearn)
 
 <p align="center">
-  <!-- 3D Banner Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Data%20World&fontSize=40&animation=fadeIn&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Verified Tech Girl Coding GIF -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Animated-Developer.gif" width="350" alt="Tech Girl Coding" />
+  <br />
+  <span style="font-size: 80px;">👩‍💻⚡🧠</span>
+  <br />
+  <b>✨ Welcome To My Artificial Intelligence & Data World ✨</b>
+  <br />
 </p>
 
 ---
@@ -15,6 +13,7 @@
 ## 👩‍💻 About Me
 - 🎓 **Education:** Student in **Licence d'Excellence: Artificial Intelligence & Data Engineering** (2025-2026).
 - 💻 **What I do:** I write clean code to extract data, manage databases, and build AI/Full-Stack solutions.
+- 🌱 **Learning:** Improving my English (A2 Level) and preparing for global freelance projects.
 - 🎯 **My Goal:** To deliver high-quality Data Engineering and Web solutions for international clients.
 
 ---
@@ -43,6 +42,6 @@
 - 📧 **Email:** [Your Professional Email Here]
 
 <p align="center">
-  <!-- Fixed Violet Badge Code -->
+  <!-- Fixed Violet Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=leadylearn&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Live Views Counter" />
 </p>
